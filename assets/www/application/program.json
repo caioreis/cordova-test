@@ -1,0 +1,92 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "bd1b6af28398660c66577a527bbc707f6baee2d2.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/bd1b6af28398660c66577a527bbc707f6baee2d2.js",
+      "size": 440495,
+      "hash": "bd1b6af28398660c66577a527bbc707f6baee2d2"
+    },
+    {
+      "path": "13b71d2a9d70f4bac7acb3528a5eeafde5ce0fe2.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/13b71d2a9d70f4bac7acb3528a5eeafde5ce0fe2.css?meteor_css_resource=true",
+      "size": 23067,
+      "hash": "13b71d2a9d70f4bac7acb3528a5eeafde5ce0fe2"
+    },
+    {
+      "path": "app/apple-touch-icon-precomposed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/apple-touch-icon-precomposed.png",
+      "size": 2222,
+      "hash": "9d9e446418108c4fa02acbfc496ca2dd45db90fc"
+    },
+    {
+      "path": "app/favicon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.png",
+      "size": 1490,
+      "hash": "48fc4f8b1972842c8023a0cf2f8faf64d05ff922"
+    },
+    {
+      "path": "app/icon/todos.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icon/todos.eot",
+      "size": 5368,
+      "hash": "9cab1a1b387bda554da25fc0e322ee205e729890"
+    },
+    {
+      "path": "app/icon/todos.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icon/todos.svg",
+      "size": 15077,
+      "hash": "9999e993a30ee13e0d5c9ebc56e0aa7526cdb003"
+    },
+    {
+      "path": "app/icon/todos.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icon/todos.ttf",
+      "size": 5212,
+      "hash": "55ace331e170574488d8ef54f318fad37224cbcd"
+    },
+    {
+      "path": "app/icon/todos.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icon/todos.woff",
+      "size": 4260,
+      "hash": "d07d8cfcf16078c48585c68d88d5d906d738231a"
+    },
+    {
+      "path": "app/img/logo-todos.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo-todos.svg",
+      "size": 4066,
+      "hash": "f09205164c463c61a7d0f075cf2f04fdf5c5d895"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "6571ad3b8e4e4413191e4e9ec00aadfa408db5d6"
+    }
+  ]
+}
